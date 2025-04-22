@@ -1,6 +1,3 @@
-# recursion_mini_projectAwesome! Let’s create a clean **GitHub-style README** and include **React.js + JavaScript code** for the **Recursive File Explorer** project.
-
----
 
 # 📁 Recursive File Explorer — React.js 🧠
 
@@ -110,5 +107,3 @@ If you found this useful or want the next level with drag & drop — drop a 💡
 Let’s decode recursion together.
 
 ---
-
-Let me know — I can also help you turn this into a **CodeSandbox project link** or write a version with TypeScript too! Want that?
